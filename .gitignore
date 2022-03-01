@@ -7,4 +7,4 @@ z*
 .env
 
 # Ignore top-level directory artifacts
-/artifacts
+/artifacts/
